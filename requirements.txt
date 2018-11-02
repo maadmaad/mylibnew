@@ -7,7 +7,7 @@ Pillow==5.3.0
 pytz==2018.7
 
 if True:
-	print("to jest print")
+	print("to jest print 1")
 else:
 	print("to nie jest pring")
 
