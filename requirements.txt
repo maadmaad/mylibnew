@@ -11,4 +11,3 @@ if True:
 else:
 	print("to nie jest pring")
 
-
